@@ -26,6 +26,6 @@ subtitle = ""
    padding = ["5px", "0", "5px", "0"]
 
 [advanced]
-css_style="background-color:#fff6ea"
+css_style='background-color:#fff6ea'
 
 +++
