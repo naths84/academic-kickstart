@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Les publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -37,6 +37,9 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+
+[design.spacing]
+   padding = ["10px", "0", "10px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,7 +48,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+  color = "fff6ea"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -66,6 +69,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
