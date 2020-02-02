@@ -1,9 +1,15 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Projet Plickers
+summary: Favoriser l'utilsation de Plickers et le partage de contenu.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Plickers
+- Cycle d'orientation
+- Collège
+- Enseignement
+- Évaluation formative
+- Évaluation
+
+date: "2020-01-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

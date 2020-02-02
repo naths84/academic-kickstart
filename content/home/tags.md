@@ -23,7 +23,7 @@ subtitle = ""
   font_size_max = 2.0
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-   padding = ["5px", "0", "5px", "0"]
+   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
 css_style='background-color:#fff6ea'

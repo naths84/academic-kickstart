@@ -1,13 +1,13 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent blog posts from `content/reflexions/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Les publications"
+title = "Tous les billets"
 subtitle = ""
 
 [content]
@@ -39,7 +39,7 @@ subtitle = ""
   view = 2
 
 [design.spacing]
-   padding = ["10px", "0", "10px", "0"]
+   padding = ["20px", "0", "20px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.

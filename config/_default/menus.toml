@@ -4,31 +4,70 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  identifier="tuto"
-  name="Tutoriels"
-  url="tutoriels/"
+  identifier="ci"
+  name="Classe inversée"
+  url="classe_inversee/"
   weight="10"
 
 [[main]]
-  name="Classe inversée"
-  parent="tuto"
-  url="tutoriels/classe_inversee"
+  name="Présentation de la classe inversée"
+  parent="ci"
+  url="classe_inversee/"
+  weight="10"
+
+[[main]]
+  identifier="manim"
+  name="Animations manim"
+  parent="ci"
+  url="classe_inversee/manim/"
   weight="20"
 
 [[main]]
-  name = "Projects"
-  url = "project/"
+  identifier="quiz"
+  name="Questions Moodle"
+  parent="ci"
+  url="classe_inversee/questions_moodle/"
+  weight="30"
+
+[[main]]
+  identifier="commentee"
+  name="Présentations commentées"
+  parent="ci"
+  url="classe_inversee/pres_commentee/"
+  weight="10"
+
+[[main]]
+  name="Les ressources"
+  parent="ci"
+  url="classe_inversee/ressources_ci"
+  weight="40"
+
+[[main]]
+  name = "Cycle d'orientation"
+  url = "cycle/"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Collège"
+  url = "college/"
+  weight = 30
+
+[[main]]
+  name = "Quelques réflexions"
   url = "publication/"
   weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Divers"
+  identifier="divers"
+  url = "divers/"
   weight = 50
+
+[[main]]
+  name="Nos héros de l'open source"
+  parent="divers"
+  url="heros_os"
+  weight="10"
 
 [[main]]
   name = "Contact"
