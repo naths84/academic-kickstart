@@ -13,10 +13,10 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
+# - name: Declare this menu item as a parent with ID `manim`.
 # - weight: Position of link in menu.
 menu:
-  example:
+  manim:
     name: Présentation
     weight: 1
 ---

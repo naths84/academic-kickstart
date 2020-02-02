@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
+linktitle: Presentation commentée
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
@@ -13,10 +13,10 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
+# - name: Declare this menu item as a parent with ID `pres_commentee`.
 # - weight: Position of link in menu.
 menu:
-  example:
+  pres_commentee:
     name: Overview
     weight: 1
 ---
