@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Tous les billets"
+title = "Divers"
 subtitle = ""
 
 [content]
@@ -60,12 +60,9 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-[advanced]
+
+ [advanced]
  # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+ css_style = "background-color:#fff6ea" 
 +++
 

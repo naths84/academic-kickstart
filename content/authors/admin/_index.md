@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Thibault et Nathan 
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profs de maths
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Canton de Geneve
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
