@@ -21,10 +21,6 @@ hero_media = ""
   url = "https://sourcethemes.com/academic/"
   label = "Comment les utiliser"
 
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "Comment les utiliser"
-
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = ""
